@@ -1,0 +1,76 @@
+.burger-nav-links:nth-child(3){
+    background-color: white;
+    color: black;
+}
+.virtual-tours-content{
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+}
+.virtual-tours-content-left{
+    padding: 0px 20px 0px 0px;
+    max-width: 940px;
+}
+.virtual-tours{
+    margin: 70px 0px;
+}
+.virtual-tours-description{
+    font-family: "Roboto", "Helvetica Neue",Arial,sans-serif;
+    font-weight: 500;
+    color: black;
+    font-size: 18px;
+    line-height: 1.7;
+}
+.car-title{
+    font-family: "Roboto", "Helvetica Neue",Arial,sans-serif;
+    color: #00609c;
+    font-size: 20px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+.car-title h3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.car-title:nth-child(2) h3{
+    text-decoration: none;
+    cursor: none;
+}
+.iframe-container{
+    width: 100%;
+    display: grid;
+    grid-template-rows: minmax(60px, auto) minmax(550px, auto);
+    opacity: 0;
+    transition: 0.75s;
+}
+.visible{
+    opacity: 1;
+}
+.car-iframe-image-box iframe{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.global-header-content-nav li:nth-child(3)::after{
+    width: 100%;
+}
+@media (max-width:1280px) {
+    .virtual-tours-content-left{
+        padding: 0 20px;
+    }
+}
+@media (max-width: 970px) {
+    .virtual-tours-content{
+        flex-direction: column;
+    }
+    .logo-image-container{
+        height: auto;
+    }
+    .global-about-us-content{
+        grid-template-rows: 30px minmax(200px, auto) minmax(20px, auto);
+        width: 100%;
+        padding: 0px 10px 40px 10px;
+    }
+}

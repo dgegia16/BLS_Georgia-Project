@@ -1,0 +1,80 @@
+.burger-nav-links:nth-child(4){
+    background-color: white;
+    color: black;
+}
+.about-us-content{
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    color: white;
+}
+.about-us{
+    margin-top: 70px;
+}
+.about-us-content-left{
+    padding: 0px 20px 0px 0px;
+    max-width: 940px;
+}
+.about-us-paragraph{
+    font-family: "Roboto", "Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    color: black;
+    font-size: 17px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+.about-us-content-paragraphs{
+    display: flex;
+    flex-direction: column;
+}
+.about-us-title{
+    font-family: "Roboto", "Helvetica Neue",Arial,sans-serif;
+    color: #606060;
+    min-height: 40px;
+}
+.paragraph-container{
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+.certification-img-containter img{
+    width: 250px;
+}
+.car-link{
+    color: #3399ff;
+    transition: 0.15s;
+}
+.car-link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.global-header-content-nav li:nth-child(4)::after{
+    width: 100%;
+}
+@media (max-width:1280px) {
+    .about-us-content-left{
+        padding: 0px 20px;
+    }
+}
+@media (max-width:970px) {
+    .about-us-content{
+        flex-direction: column;
+    }
+    .about-us-content-left{
+        padding: 0px 20px 0px 20px;
+    }
+    .logo-image-container{
+        height: auto;
+    }
+    .global-about-us-content{
+        grid-template-rows: 30px minmax(200px, auto) minmax(20px, auto);
+        width: 100%;
+        padding: 0px 10px 40px 10px;
+    }
+    
+}
+@media (max-width:720px) {
+    .paragraph-container{
+        display: grid;
+        grid-template-columns: none;
+    }
+}
