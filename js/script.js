@@ -7,7 +7,7 @@ const users = [
     href: "frontline-ambulance.html"
   },
   {
-    image: "GlobalImages/BLS_MINIBUS-200x227.jpg",
+    image: "GlobalImages/BLS_MINIBUS-200x227.png",
     title: "Minibus",
     alt: "ambulance",
     href: "minibus.html"
