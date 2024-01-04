@@ -41,10 +41,7 @@ const users = [
                     <div class="global-transport-paragraph">
                         <p><b class="global-bold-text">Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE</p>
                     </div>
-                </div>
-                <div class="certification-img-box">
-                    <img src="AmbulanceImages/certification.jpg" alt="certification">
-                </div>  `
+                </div>`
     },
     {
       title: "Minibus",
@@ -280,9 +277,6 @@ const users = [
               If you require a more bespoke vehicle design outside of our CEN (BSEN 1789:2014) certification we can provide this with an IVA making sure you are fully compliant.
           </p>
       </div>
-  </div>
-  <div class="certificate-img-box">
-      <img src="HduImages/DAS-Ukas-ISO-900_web-e1592482350198.jpg" alt="">
   </div>`
     },
   ];
@@ -332,9 +326,6 @@ const users = [
     <div class="global-transport-paragraph">
         <p><b class="global-bold-text">Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE</p>
     </div>
-</div>
-<div class="certification-img-box">
-    <img src="/AmbulanceImages/certification.jpg" alt="certification">
 </div>`
 },
 {   
@@ -386,9 +377,6 @@ html: `<div class="page-title">
 <div class="global-transport-paragraph">
     <p>Our Renault Master conversion is also available fully CEN (BSEN 1789:2014) Certified and also comes with European Whole Vehicle Type Approval Certification. <b class="global-bold-text">Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE</p>
 </div>
-</div>
-<div class="certification-img-box">
-<img src="/AmbulanceImages/certification.jpg" alt="certification">
 </div>`
 },
 {
@@ -450,9 +438,6 @@ html: `<div class="page-title">
 </div>
 <div class="global-transport-paragraph">
 <p><b class="global-bold-text">Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE</p>
-</div>
-<div class="certification-img-box">
-<img src="/AmbulanceImages/certification.jpg" alt="certification">
 </div>`
 }]
 
