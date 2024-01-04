@@ -33,7 +33,7 @@ const users = [
                         <h2>EMS Frontline</h2>
                     </div>
                     <div class="global-transport-paragraph">
-                        <p><b class="global-bold-text">Patient comfort and a safe working environment –</b> built to the highest standards and using the latest technologies <b class="global-bold-text">BUT</b> always demanding improvement is what makes a BLS Georgia Emergency Ambulance popular. We design your vehicles bespoke to your needs, building beyond CEN (BSEN 1789:2014) certification.</p>
+                        <p><b class="global-bold-text">Patient comfort and a safe working environment –</b> built to the highest standards and using the latest technologies <b class="global-bold-text">BUT</b> always demanding improvement is what makes a BLS Georgia Emergency Ambulance popular.</p>
                     </div>
                     <div class="global-transport-paragraph">
                         <p>Designed to meet the rigorous challenges Paramedics face to provide life saving clinical care, the end result a safer place to work for our frontline hero’s.</p>
@@ -267,16 +267,8 @@ const users = [
               This is achieved buy us understanding your organisations requirements and building your vehicle around your business. Not making your business fit a generic vehicle design.
           </p>
       </div>
-      <div class="global-transport-paragraph">
-          <p>
-              Our High Dependency conversions are fully CEN (BSEN 1789:2014) Certified and also come with European Whole Vehicle Type Approval Certification. <b>Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE
-          </p>
-      </div>
-      <div class="global-transport-paragraph">
-          <p>
-              If you require a more bespoke vehicle design outside of our CEN (BSEN 1789:2014) certification we can provide this with an IVA making sure you are fully compliant.
-          </p>
-      </div>
+      
+      
   </div>`
     },
   ];
