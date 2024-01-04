@@ -30,7 +30,7 @@ const users = [
                         </div>
                 <div class="global-paragraphs">
                     <div class="page-title">
-                        <h2>EMS Frontline Renault Master</h2>
+                        <h2>EMS Frontline</h2>
                     </div>
                     <div class="global-transport-paragraph">
                         <p><b class="global-bold-text">Patient comfort and a safe working environment –</b> built to the highest standards and using the latest technologies <b class="global-bold-text">BUT</b> always demanding improvement is what makes a BLS Georgia Emergency Ambulance popular. We design your vehicles bespoke to your needs, building beyond CEN (BSEN 1789:2014) certification.</p>
@@ -154,7 +154,7 @@ const users = [
 </div>
   <div class="global-paragraphs">
       <div class="page-title">
-          <h2>Secure Transport Renault Master</h2>
+          <h2>Secure Transport</h2>
       </div>
       <div class="global-transport-paragraph-title">
           <p>Our Secure Transport vehicles can be fully configured by you to suit your requirements.</p>
@@ -269,7 +269,7 @@ const users = [
       </div>
       <div class="global-transport-paragraph">
           <p>
-              Our High Dependency Renault Master conversions are fully CEN (BSEN 1789:2014) Certified and also come with European Whole Vehicle Type Approval Certification. <b>Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE
+              Our High Dependency conversions are fully CEN (BSEN 1789:2014) Certified and also come with European Whole Vehicle Type Approval Certification. <b>Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE
           </p>
       </div>
       <div class="global-transport-paragraph">
@@ -375,7 +375,7 @@ html: `<div class="page-title">
     <p>We use only the highest quality material to ensure that you have a reliable vehicle with minimum down time. We take pride in supplying highest quality vehicle conversions.</p>
 </div>
 <div class="global-transport-paragraph">
-    <p>Our Renault Master conversion is also available fully CEN (BSEN 1789:2014) Certified and also comes with European Whole Vehicle Type Approval Certification. <b class="global-bold-text">Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE</p>
+    <p>Our conversion is also available fully CEN (BSEN 1789:2014) Certified and also comes with European Whole Vehicle Type Approval Certification. <b class="global-bold-text">Plus</b> in ALL our Ambulance interior builds we use Biomaster silver based antimicrobial technology making the working environment:- SAFE TESTED PROTECTED for LIFE</p>
 </div>
 </div>`
 },
@@ -428,7 +428,7 @@ html: `<div class="page-title">
 <ul class="global-ambulance-ul">
     <li>Multifunctional layout that can be reconfigured in minutes removes the need for excess fleet</li>
     <li>Accommodate a Bariatric Stretcher</li>
-    <li>Renault Master Euro 6 DCi 130</li>
+    <li> Euro 6 DCi 130</li>
     <li>Stem Manual Side Step</li>
     <li>Driven under 3500KG on a B license</li>
     <li>Storage for all equipment</li>
