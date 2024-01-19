@@ -288,10 +288,10 @@ const users = [
             <img src="PTSstretcherImages/DSC_0313.jpg" alt="ambulance">
         </div>
         <div class="swiper-slide">
-            <img src="PTSstretcherImages/DSC_0314.jpg" alt="ambulance">
+            <img src="PTSstretcherImages/stretcher-1.jpg" alt="ambulance">
         </div>
         <div class="swiper-slide">
-            <img src="PTSstretcherImages/DSC_0315.jpg" alt="ambulance">
+            <img src="PTSstretcherImages/stretcher-2.jpg" alt="ambulance">
         </div>
         <div class="swiper-slide">
             <img src="PTSstretcherImages/DSC_0318.jpg" alt="ambulance">
